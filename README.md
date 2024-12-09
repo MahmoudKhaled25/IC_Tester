@@ -30,7 +30,7 @@ Below is the hardware schematic of the IC tester:
 
 ![IC Tester Schematic](schematics/ic_tester_schematic.png)
 
-> Note: Replace the `schematics/ic_tester_schematic.png` path with the correct relative path to your schematic image in the repository.
+> Note: This schematic from Proteus simulation APP.
 
 ## Technical Details
 - **Microcontroller**: ATmega32 programmed in C.
